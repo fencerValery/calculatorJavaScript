@@ -1,0 +1,19 @@
+.window-for-number{
+  border: 2px solid black;
+  width: 435px;
+  height: 50px;
+  font-size: 30px;
+  text-align: left;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+button{
+  border: 2px solid black;
+  font-size: 36px;
+  width: 100px;
+  height: 50px;
+  margin-bottom: 10px;
+  border-radius: 30px 30px 30px 30px;
+  text-align: center;
+}
